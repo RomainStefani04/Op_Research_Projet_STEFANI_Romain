@@ -7,7 +7,7 @@ Implémentation en Java d'algorithmes de flots dans les graphes :
 
 ## Auteur
 
-STEFANI Romain
+Romain STEFANI
 
 ## Prérequis
 
@@ -49,4 +49,4 @@ La classe `Utils` regroupe les opérations communes aux algorithmes (extraction 
 
 ## Documentation
 
-Le fichier `rapport.pdf` détaille le contenu du projet.
+Le fichier `Romain_STEFANI_Rapport.pdf` détaille le contenu du projet.
